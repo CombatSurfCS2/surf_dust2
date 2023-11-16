@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\de_dust\dome_01\dome_01.vmt"
+}

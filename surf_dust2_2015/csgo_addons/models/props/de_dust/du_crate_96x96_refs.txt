@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\de_dust\crates\crate_96x96.vmt"
+	"file"	"materials\models\de_dust\crates\crate_96x96a.vmt"
+	"file"	"materials\models\de_dust\crates\crate_96x96b.vmt"
+}

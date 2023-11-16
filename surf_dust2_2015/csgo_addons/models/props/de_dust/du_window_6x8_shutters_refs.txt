@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\de_dust\windows\window_6x8_shutters.vmt"
+}

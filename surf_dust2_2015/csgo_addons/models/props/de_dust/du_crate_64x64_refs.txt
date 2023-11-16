@@ -1,0 +1,10 @@
+importfilelist
+{
+	"file"	"materials\models\de_dust\crates\crate_64x64.vmt"
+	"file"	"materials\models\de_dust\crates\crate_64x64a.vmt"
+	"file"	"materials\models\de_dust\crates\crate_64x64d.vmt"
+	"file"	"materials\models\de_dust\crates\crate_64x64g.vmt"
+	"file"	"materials\models\de_dust\crates\crate_64x64h.vmt"
+	"file"	"materials\models\de_dust\crates\crate_64x64i.vmt"
+	"file"	"materials\models\de_dust\crates\crate_64x64j.vmt"
+}

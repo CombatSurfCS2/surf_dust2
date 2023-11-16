@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\surf\d_ramp.vmt"
+	"file"	"materials\models\surf\d_ramp_vn.vmt"
+}

@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\de_dust\objects\palm_tree_branches.vmt"
+	"file"	"materials\models\de_dust\objects\palm_tree_trunk.vmt"
+}
